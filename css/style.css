@@ -296,18 +296,12 @@ section .first_thing h2 {
     }
 
     .second_thing h2 {
-        font-size: 1.25rem;
+        font-size: 1.2rem;
     }
 
     .second_thing p {
-        top: 20%;
-        font-size: 1rem;
+        font-size: .9rem;
     }
-
-    .second_thing .btn {
-        top: 85%;
-    }
-
 }
 
 .second_thing {
@@ -324,7 +318,7 @@ section .first_thing h2 {
 .second_thing h2  {
     position: relative;
     color: #5b5b5b;
-    top: 10%;
+    top: 20%;
     font-weight: 700;
     letter-spacing: 0.125em;
     line-height: 1.75em;
@@ -335,7 +329,7 @@ section .first_thing h2 {
 .second_thing p {
     position: relative;
     color: #5b5b5b;
-    top: 10%;
+    top: 25%;
     font-weight: 700;
     letter-spacing: 0.125em;
     line-height: 1.75em;
@@ -351,7 +345,7 @@ section .first_thing h2 {
     padding: 15px 40px;
     text-align: center;
     transform: translate(-50%, -50%);
-    top: 65%;
+    top: 150%;
     left: 50%;
     text-transform: uppercase;
     border-radius: 40px;

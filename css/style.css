@@ -294,7 +294,20 @@ section .first_thing h2 {
         top: 50%;
         left: 50%
     }
-    
+
+    .second_thing h2 {
+        font-size: 1.25rem;
+    }
+
+    .second_thing p {
+        top: 20%;
+        font-size: 1rem;
+    }
+
+    .second_thing .btn {
+        top: 85%;
+    }
+
 }
 
 .second_thing {
